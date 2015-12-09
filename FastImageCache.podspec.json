@@ -16,7 +16,8 @@
     "ios": "6.0"
   },
   "source": {
-    "git": "https://github.com/bountylabs/FastImageCache.git"
+    "git": "https://github.com/bountylabs/FastImageCache.git",
+    "tag": "1.4"
   },
   "source_files": "FastImageCache",
   "requires_arc": true
