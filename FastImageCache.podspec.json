@@ -19,6 +19,6 @@
     "git": "https://github.com/bountylabs/FastImageCache.git",
     "branch": "bountylabs"
   },
-  "source_files": "FastImageCache/FastImageCache/FastImageCache/*.{h,m}“,
+  "source_files": "FastImageCache/FastImageCache/FastImageCache/*.{h,m}",
   "requires_arc": true
 }
