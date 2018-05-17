@@ -47,6 +47,8 @@ CFUUIDBytes FICUUIDBytesWithString(NSString *string) {
     if (UUIDRef != NULL) {
         UUIDBytes = CFUUIDGetUUIDBytes(UUIDRef);
         CFRelease(UUIDRef);
+    } else {
+        UUIDBytes = (CFUUIDBytes){};
     }
     
     return UUIDBytes;
