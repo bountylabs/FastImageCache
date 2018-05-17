@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "62355EE620AD542400729BD2"
-               BuildableName = "FastImageCache_tvOS.framework"
+               BuildableName = "FastImageCache.framework"
                BlueprintName = "FastImageCache-tvOS"
                ReferencedContainer = "container:FastImageCache.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "62355EE620AD542400729BD2"
-            BuildableName = "FastImageCache_tvOS.framework"
+            BuildableName = "FastImageCache.framework"
             BlueprintName = "FastImageCache-tvOS"
             ReferencedContainer = "container:FastImageCache.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "62355EE620AD542400729BD2"
-            BuildableName = "FastImageCache_tvOS.framework"
+            BuildableName = "FastImageCache.framework"
             BlueprintName = "FastImageCache-tvOS"
             ReferencedContainer = "container:FastImageCache.xcodeproj">
          </BuildableReference>
